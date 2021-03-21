@@ -1,7 +1,7 @@
 # Module 14 | Assignment
 # NYC Citi Bike - Des Moines
 
-You will analyze NYC Citi Bike data using Tableau.
+Analyzing NYC Citi Bike-Sharing data using Tableau.
 
 # Lets Ride
 
@@ -19,22 +19,22 @@ In this module we are asked to build a dynamic story for starting a bike-sharing
 ## Results:
 -Using the visualizations you have in your Tableau Story, describe the results of each visualization underneath the image.
 
-New York City bike sharing data from August 2019.
+New York City bike sharing data from August 2019 visualized.
 
 
-1. Duration of Checkout Times for Users; over 140K units had a trip duration that exceeded 5 minutes. ![Checkouttimesforusers](https://github.com/JimmyJ-D/BikeSharing/blob/main/images/checkouttimesforusers.png)
+![Checkouttimesforusers](https://github.com/JimmyJ-D/BikeSharing/blob/main/images/checkouttimesforusers.png)  Duration of Checkout Times for Users; over 140K units had a trip duration that exceeded 5 minutes. 
 
-2. Duration of utilization by Gender, Male utilization is 3 times greater than female. ![CheckouttimesbyGenders](https://github.com/JimmyJ-D/BikeSharing/blob/main/images/CheckouttimesbyGenders.png)
+![CheckouttimesbyGenders](https://github.com/JimmyJ-D/BikeSharing/blob/main/images/CheckouttimesbyGenders.png) Duration of utilization by Gender, Male utilization is 3 times greater than female. 
 
-3. Gender Breakdown of Riders, Male riders out number female riders by a 3to1 ratio. ![BreakdownofRiders](https://github.com/JimmyJ-D/BikeSharing/blob/main/images/BreakdownofRiders.png)
+![BreakdownofRiders](https://github.com/JimmyJ-D/BikeSharing/blob/main/images/BreakdownofRiders.png) Gender Breakdown of Riders, Male riders out number female riders by a 3to1 ratio. 
 
-4. Weekday Hours, Examining the HeatMap 5pm to 6pm is the most utilized time slot for renting bikes. ![WeekdayHours](https://github.com/JimmyJ-D/BikeSharing/blob/main/images/WeekdayHours.png)
+![WeekdayHours](https://github.com/JimmyJ-D/BikeSharing/blob/main/images/WeekdayHours.png) Weekday Hours, Examining the HeatMap 5pm to 6pm is the most utilized time slot for renting bikes. 
 
-5. Weekdays, The most popular days to rent are Thursday and Friday. ![PopularDaystoRent](https://github.com/JimmyJ-D/BikeSharing/blob/main/images/PopularDaystoRent.png)
+![PopularDaystoRent](https://github.com/JimmyJ-D/BikeSharing/blob/main/images/PopularDaystoRent.png) Weekdays, The most popular days to rent are Thursday and Friday. 
 
-6. Count, Using the HeatMap 7AM to 8AM and 5PM to 6PM accounts for the largest numbers or rental durning the Weekday.![Count](https://github.com/JimmyJ-D/BikeSharing/blob/main/images/Count.png)
+![Count](https://github.com/JimmyJ-D/BikeSharing/blob/main/images/Count.png) Count, Using the HeatMap 7AM to 8AM and 5PM to 6PM accounts for the largest numbers or rental durning the Weekday.
 
-7. ![BikeID](https://github.com/JimmyJ-D/BikeSharing/blob/main/images/BikeID.png) Bike ID utilization, The Bike ID Utilization spot grid is a useful map to help manage asset location. 
+![BikeID](https://github.com/JimmyJ-D/BikeSharing/blob/main/images/BikeID.png) Bike ID utilization, The Bike ID Utilization spot grid is a useful map to help manage asset location. 
 
 
 ## Summary:
