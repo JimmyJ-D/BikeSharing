@@ -14,12 +14,10 @@ Tableau Story, NYC Bike Rental Details for the August 2019. [NYC Bike Rental Det
 
 ## Overview and Parameters
 
-In this module we are asked to build a dynamic story for starting a bike-sharing business in Des Moines. We will use  captured data from a New York City bike-sharing company to provide key stakeholders with analysis.
+In this module we are asked to build a dynamic story for starting a bike-sharing business in Des Moines. We will use captured data from a New York City bike-sharing company to provide key stakeholders with analysis data.
 
 ## Results:
--Using the visualizations you have in your Tableau Story, describe the results of each visualization underneath the image.
-
-New York City bike sharing data from August 2019 visualized.
+New York City bike sharing data from August 2019 visualized. 
 
 
 ![Checkouttimesforusers](https://github.com/JimmyJ-D/BikeSharing/blob/main/images/checkouttimesforusers.png)  Duration of Checkout Times for Users; over 140K units had a trip duration that exceeded 5 minutes. 
