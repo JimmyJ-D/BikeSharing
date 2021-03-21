@@ -1,4 +1,4 @@
-# Module 14 | Assignment
+# Module 14 | Bike Sharing
 # NYC Citi Bike - Des Moines
 
 Analyzing NYC Citi Bike-Sharing data using Tableau.
